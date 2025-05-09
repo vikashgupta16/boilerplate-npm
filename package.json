@@ -9,6 +9,18 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/freeCodeCamp/boilerplate-npm.git"
-	}
+		"url": "git+https://github.com/freeCodeCamp/boilerplate-npm.git"
+	},
+	"version": "1.0.0",
+	"pacakge" : "1.1.13",
+	"description": "I am learning to use NPM and Node.js",
+	"devDependencies": {},
+	"keywords": ["Vikash", "freecodecamp"],
+	"author": "Vikash Gupta",
+	"license": "MIT",
+	"type": "commonjs",
+	"bugs": {
+		"url": "https://github.com/freeCodeCamp/boilerplate-npm/issues"
+	},
+	"homepage": "https://github.com/freeCodeCamp/boilerplate-npm#readme"
 }
